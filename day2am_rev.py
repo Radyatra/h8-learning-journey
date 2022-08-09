@@ -1,0 +1,1 @@
+print('Ini adalah versi eksperimental dari day2am.py')
