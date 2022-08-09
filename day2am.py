@@ -1,0 +1,1 @@
+print('Hari ini saya belajar mengenai Git dan Github. Wow!')
